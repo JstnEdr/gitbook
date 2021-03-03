@@ -14,4 +14,5 @@
 ## Development Journal
 
 * [20210301](development-journal/20210301.md)
+* [20210302](development-journal/20210302.md)
 
