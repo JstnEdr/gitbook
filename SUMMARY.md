@@ -18,3 +18,8 @@
 * [20210302](development-journal/20210302.md)
 * [20210303](development-journal/20210303.md)
 
+---
+
+* [Terms and Definitions](terms-and-definitions.md)
+* [Untitled](untitled.md)
+
