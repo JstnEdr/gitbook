@@ -5,6 +5,7 @@
 
 ## Awesome Lists
 
+* [TypeScript](awesome-lists/typescript.md)
 * [GraphQL](awesome-lists/graphql.md)
 * [.NET](awesome-lists/.net.md)
 * [Visual Studio](awesome-lists/visual-studio.md)
