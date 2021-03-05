@@ -7,7 +7,8 @@
 
 * [GraphQL](awesome-lists/graphql.md)
 * [.NET](awesome-lists/.net.md)
-* [Untitled](awesome-lists/untitled/README.md)
+* [Visual Studio](awesome-lists/visual-studio.md)
+* [Resources](awesome-lists/untitled/README.md)
   * [Design Patterns](awesome-lists/untitled/design-patterns.md)
   * [React UI Libraries](awesome-lists/untitled/react-ui-libraries.md)
   * [Library Ratings](awesome-lists/untitled/awesome-links.md)
