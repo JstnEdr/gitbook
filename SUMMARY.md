@@ -7,7 +7,8 @@
 
 * [TypeScript](awesome-lists/typescript.md)
 * [GraphQL](awesome-lists/graphql.md)
-* [.NET](awesome-lists/.net.md)
+* [.NET](awesome-lists/.net/README.md)
+  * [Service Lifetimes](awesome-lists/.net/service-lifetimes.md)
 * [Visual Studio](awesome-lists/visual-studio.md)
 * [Resources](awesome-lists/untitled/README.md)
   * [Game Engines](awesome-lists/untitled/game-engines.md)
