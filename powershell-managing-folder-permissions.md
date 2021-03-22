@@ -6,7 +6,7 @@ description: >-
 
 # Powershell managing folder permissions
 
-## Exploring NTFS File and Folder Permissions
+### Exploring NTFS File and Folder Permissions
 
 Becoming a super hero is a fairly straight forward process:
 
@@ -31,9 +31,11 @@ echo 'You got to trust me on this, I saved the world'
 ```
 {% endcode %}
 
-## See Options
+### See Options
 
 ```bash
-
+[System.Enum]::GetNames([System.Security.AccessControl.FileSystemRights])
 ```
+
+
 
