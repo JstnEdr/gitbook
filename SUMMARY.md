@@ -8,6 +8,7 @@
 * [TypeScript](awesome-lists/typescript.md)
 * [GraphQL](awesome-lists/graphql.md)
 * [.NET](awesome-lists/.net/README.md)
+  * [Value Types](awesome-lists/.net/value-types.md)
   * [Service Lifetimes](awesome-lists/.net/service-lifetimes.md)
 * [Visual Studio](awesome-lists/visual-studio.md)
 * [Resources](awesome-lists/untitled/README.md)
@@ -22,6 +23,7 @@
 * [20210301-05](development-journal/20210301.md)
 * [20210308-12](development-journal/20210308.md)
 * [20210315-19](development-journal/20210315-19.md)
+* [20210322-27](development-journal/20210322-27.md)
 
 ---
 
