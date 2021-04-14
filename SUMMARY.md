@@ -11,6 +11,7 @@
   * [Value Types](awesome-lists/.net/value-types.md)
   * [Service Lifetimes](awesome-lists/.net/service-lifetimes.md)
 * [Visual Studio](awesome-lists/visual-studio.md)
+* [Azure Functions - Media Services](awesome-lists/azure-functions-media-services.md)
 * [Resources](awesome-lists/untitled/README.md)
   * [Game Engines](awesome-lists/untitled/game-engines.md)
   * [Design Patterns](awesome-lists/untitled/design-patterns.md)
