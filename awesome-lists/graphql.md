@@ -4,7 +4,15 @@ description: Collection of GraphQL documentation
 
 # GraphQL
 
-An Empirical Study of GraphQL Schemas 
+{% embed url="https://medium.com/swlh/empirical-study-graphql-icsoc19-29038c48da5" %}
 
-[https://medium.com/swlh/empirical-study-graphql-icsoc19-29038c48da5](https://medium.com/swlh/empirical-study-graphql-icsoc19-29038c48da5)
+{% embed url="https://relay.dev/docs/guides/graphql-server-specification/" %}
+
+
+
+{% embed url="https://spec.graphql.org/draft/" %}
+
+{% embed url="https://github.com/jaydenseric/graphql-multipart-request-spec" %}
+
+
 
