@@ -10,5 +10,9 @@
 
 {% embed url="https://github.com/Azure/azure-functions-templates" %}
 
+{% embed url="https://docs.microsoft.com/en-us/azure/azure-functions/functions-debug-event-grid-trigger-local" %}
+
+{% embed url="https://docs.microsoft.com/en-us/azure/azure-functions/functions-dotnet-dependency-injection" %}
+
 
 
