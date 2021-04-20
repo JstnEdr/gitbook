@@ -14,5 +14,7 @@
 
 {% embed url="https://docs.microsoft.com/en-us/azure/azure-functions/functions-dotnet-dependency-injection" %}
 
+{% embed url="https://blog.mcilreavy.com/articles/2018-12/debug-eventgrid-triggered-azure-function" %}
+
 
 
