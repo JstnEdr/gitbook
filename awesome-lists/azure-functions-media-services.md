@@ -8,5 +8,7 @@
 
 {% embed url="https://github.com/Azure/azure-functions-templates" %}
 
+{% embed url="https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local?tabs=windows%2Ccsharp%2Cbash" %}
+
 
 
