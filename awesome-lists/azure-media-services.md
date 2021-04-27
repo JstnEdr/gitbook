@@ -10,5 +10,5 @@
 
 {% embed url="https://blog.mcilreavy.com/articles/2018-12/debug-eventgrid-triggered-azure-function" %}
 
-
+{% embed url="https://docs.microsoft.com/en-us/azure/azure-functions/functions-debug-event-grid-trigger-local" %}
 
