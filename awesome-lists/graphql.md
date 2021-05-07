@@ -14,5 +14,7 @@ description: Collection of GraphQL documentation
 
 {% embed url="https://github.com/jaydenseric/graphql-multipart-request-spec" %}
 
+{% embed url="https://the-guild.dev/blog/graphql-with-typescript-done-right" %}
+
 
 
