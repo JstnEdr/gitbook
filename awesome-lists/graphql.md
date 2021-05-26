@@ -16,5 +16,9 @@ description: Collection of GraphQL documentation
 
 {% embed url="https://the-guild.dev/blog/graphql-with-typescript-done-right" %}
 
+{% embed url="https://www.apollographql.com/blog/apollo-client/architecture/client-side-architecture-basics/" %}
+
+{% embed url="https://khalilstemmler.com/articles/client-side-architecture/introduction/" %}
+
 
 
